@@ -1,0 +1,11 @@
+os
+shutil
+subprocess
+sys
+threading
+tkinter
+pyinstaller>=6.0
+
+
+# No external dependencies required.
+# Requires Python 3.10+
